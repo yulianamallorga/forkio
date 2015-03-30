@@ -1,0 +1,19 @@
+.left{
+	float: left;
+}
+
+.right{
+	float: right;
+}
+
+.large{
+	width: 100%;
+}
+
+.page-half{
+	width: 50%;
+}
+
+.hide{
+	display: none;
+}

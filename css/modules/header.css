@@ -1,0 +1,40 @@
+header{
+	background-color: #fcfcfc;
+}
+header .wrapper-logo{
+	width: 155px;
+	height: 100px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+
+}
+
+header .wrapper-menu{
+	padding-top: 20px;
+}
+
+header .wrapper-menu ul li{
+	display: inline-block;
+
+}
+
+header .wrapper-menu ul li a{
+	color: #635675;
+	font-size: 16px;
+	padding-top: 15px;
+	padding-right: 25px;
+	font-weight: bold;
+
+}
+
+header .wrapper-menu ul .buy a{
+	border-radius: 35%;
+	border: solid 1px #333;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	background-color: #635675;
+	color: #fff;	
+
+}
