@@ -1,16 +1,20 @@
 header{
 	background-color: #fcfcfc;
+	padding-left: 40px;
+	padding-top: 10px;
 }
 header .wrapper-logo{
-	width: 155px;
+	width: 168px;
 	height: 100px;
-	padding-top: 25px;
-	padding-bottom: 25px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
 
 }
 
 header .wrapper-menu{
 	padding-top: 20px;
+	padding-right: 40px;
 }
 
 header .wrapper-menu ul li{
@@ -20,21 +24,21 @@ header .wrapper-menu ul li{
 
 header .wrapper-menu ul li a{
 	color: #635675;
-	font-size: 16px;
+	font-size: 17px;
 	padding-top: 15px;
-	padding-right: 25px;
+	padding-right: 40px;
 	font-weight: bold;
 
 }
 
 header .wrapper-menu ul .buy a{
-	border-radius: 35%;
-	border: solid 1px #333;
-	padding-top: 10px;
-	padding-bottom: 10px;
-	padding-left: 10px;
-	padding-right: 10px;
-	background-color: #635675;
+	border-radius: 20px;
+	border: solid 1px #9585AC;
+	padding-top: 9px;
+	padding-bottom: 9px;
+	padding-left: 35px;
+	padding-right: 35px;
+	background-color: #9585AC;
 	color: #fff;	
 
 }
