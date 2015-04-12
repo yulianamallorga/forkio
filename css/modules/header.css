@@ -1,20 +1,28 @@
 header{
 	background-color: #fff;
-	padding-left: 40px;
-	padding-top: 10px;
 }
 header .wrapper-logo{
-	width: 168px;
-	height: 100px;
-	padding-top: 20px;
+	width: 157px;
+	height: 40px;
+	padding-right: 11px;
+	padding-top: 27px;
 	padding-bottom: 20px;
-	padding-left: 20px;
 
+}
+
+header .wrapper-logo a{
+	padding-top: 4px;
+	padding-right: 1px;
 }
 
 header .wrapper-menu{
-	padding-top: 20px;
-	padding-right: 40px;
+	padding-top: 27px;
+	width: 70%;
+}
+
+header .wrapper-menu ul{
+	text-align: right;
+	padding-top: 1px;
 }
 
 header .wrapper-menu ul li{
@@ -22,23 +30,38 @@ header .wrapper-menu ul li{
 
 }
 
+header .wrapper-menu ul li:first-child{
+	padding-right: 45px;
+}
+
+header .wrapper-menu ul li:nth-child(2){
+	padding-right: 44px;
+}
+
+header .wrapper-menu ul li:nth-child(3){
+	padding-right: 43px;
+}
+
+header .wrapper-menu ul li:nth-child(4){
+	padding-right: 32px;
+}
+
 header .wrapper-menu ul li a{
-	color: #635675;
-	font-size: 17px;
+	color: #635c73;
+	font-size: 16px;
 	padding-top: 15px;
-	padding-right: 40px;
 	font-weight: bold;
 
 }
 
 header .wrapper-menu ul .buy a{
+	width: 145px;
 	border-radius: 20px;
-	border: solid 1px #9585AC;
+	border: solid 1px #8d81ac;
 	padding-top: 9px;
-	padding-bottom: 9px;
-	padding-left: 35px;
-	padding-right: 35px;
-	background-color: #9585AC;
-	color: #fff;	
+	padding-bottom: 8px;
+	text-align: center;
+	background-color: #8d81ac;
+	color: #fff;
 
 }

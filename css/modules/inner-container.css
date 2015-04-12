@@ -1,5 +1,7 @@
 .inner-container{
-	padding-left: 5%;
-	padding-right: 5%;
+  max-width: 1380px;
 	position: relative;
+  overflow: hidden;
+  margin: 0 auto;
+  padding-left: 11%;
 }
