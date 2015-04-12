@@ -147,3 +147,62 @@ footer .social-link .box .facebook i{
 footer .social-link .box .facebook h3{
 	text-align: center;
 }
+
+footer .footer-content{
+	padding-top: 20px;
+	background-color: #000; 
+}
+
+footer .footer-content strong{
+	font-size: 44px;
+	text-align: center;
+	color: #fff;
+	display: block;
+}
+
+footer .footer-content .img-container{
+	height: 700px;
+	padding-top: 90px;
+	padding-left: 25px;
+}
+
+footer .footer-content .img-container ul li{
+	float: left;
+	padding-right: 40px;
+	width: 33%;
+	padding-bottom: 20px;
+}
+
+footer .footer-content .img-container ul li .wrapper-img{
+	width: 210px;
+	height: 100px;
+	margin: 0 auto;
+}
+
+footer .footer-content .img-container ul li .wrapper-img .one{
+	width: 80%;
+}
+
+footer .footer-content .img-container ul li .wrapper-img .two{
+	width: 69%;
+}
+
+footer .footer-content .img-container ul li .wrapper-img .three{
+	width: 33%;
+}
+
+footer .footer-content .img-container ul li .wrapper-img .five{
+	width: 82%;
+}
+
+footer .footer-content .img-container ul li .wrapper-img .last{
+	width: 53%;
+}
+
+footer .footer-content .img-container ul li  p{
+	display: block;
+	color: #fff;
+	font-weight: bold;
+	font-family: cursive;
+	font-size: 16px;
+}
