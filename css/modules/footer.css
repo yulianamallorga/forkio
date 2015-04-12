@@ -1,0 +1,149 @@
+footer .toolbar #slider .slides section{
+	padding-top: 75px;
+}
+
+footer .toolbar #slider .slides section .twitter{
+margin: 0 auto;
+width: 350px;
+}
+
+footer .toolbar #slider .slides section .wrapper-image{
+	width: 100px;
+}
+
+footer .toolbar #slider .slides section .wrapper-image img{
+	border-radius: 50%;
+}
+
+footer .toolbar #slider .slides section .right{
+	padding-top: 12px;
+}
+
+footer .toolbar #slider .slides section .right h2{
+	color: #635675;
+}
+
+footer .toolbar #slider .slides section .right span{
+	color: #917FAC;
+	font-size: 18px;
+}
+
+footer .toolbar #slider .slides section .twit{
+	padding-top: 115px;
+	width: 600px;
+	margin: 0 auto;
+	border-bottom: solid 2px rgba(246, 245, 247, 0.74);
+	padding-bottom: 55px;
+}
+
+footer .toolbar #slider .slides section .twit p,span{
+	font-size: 18px;
+}
+footer .toolbar #slider .slides section .twit p span{
+	color: #917FAC;
+}
+footer .toolbar #slider .slides section .twit .footer{
+	color: rgba(170, 164, 180, 0.99);
+	font-size: 14px;
+	display: block;
+	text-align: center;
+	font-weight: bold;
+}
+
+footer .social-link{
+	width: 920px;
+	margin: 0 auto;
+	padding-top: 58px;
+	padding-bottom: 75px;
+}
+
+footer .social-link .box{
+	width: 282px;
+	display: inline-block;
+	padding-left: 20px;
+}
+
+footer .social-link .box span{
+	text-align: center;
+	display: block;
+	padding-top: 20px;
+	padding-right: 20px;
+	color: #917FAC;
+	font-size: 14px;
+	font-weight: bold;
+
+}
+
+footer .social-link .box i, h3{
+	display: inline-block;
+	font-size: 20px;
+}
+
+footer .social-link .box .github{
+	border: solid 1px rgba(214, 211, 194, 0.47);
+	border-radius: 7px;
+	display: inline-block;
+	width: 225px;
+	padding: 10px 5px;
+	background: rgba(214, 211, 194, 0.47);
+}
+
+footer .social-link .box .github a{
+	text-align: center;
+	color: #000;
+}
+
+footer .social-link .box .github i{
+	font-size: 20px;
+	padding-right: 18px;
+}
+
+footer .social-link .box .github h3{
+text-align: center;
+}
+
+footer .social-link .box .twitter{
+	border: solid 1px #09c;
+	border-radius: 7px;
+	width: 225px;
+	padding: 10px 5px;
+	display: inline-block;
+	background: #09c;
+}
+
+footer .social-link .box .twitter a{
+	text-align: center;
+	color: #fff;
+}
+
+footer .social-link .box .twitter i{
+	font-size: 20px;
+	padding-right: 18px;
+}
+
+footer .social-link .box .twitter h3{
+	text-align: center;
+}
+
+footer .social-link .box .facebook{
+	border: solid 1px #2d609b;
+	border-radius: 7px;
+	width: 225px;
+	padding: 10px 5px;
+	display: inline-block;
+	background: #2d609b;
+}
+
+footer .social-link .box .facebook a{
+	text-align: center;
+	color: #fff;
+}
+
+footer .social-link .box .facebook i{
+	font-size: 20px;
+	padding-right: 18px;
+}
+
+footer .social-link .box .facebook h3{
+	text-align: center;
+}

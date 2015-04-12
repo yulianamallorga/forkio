@@ -22,7 +22,7 @@ a, img{
 	width: 100%;
 }
 
-span{
+span, i, h6{
 	display: inline-block;
 }
 
