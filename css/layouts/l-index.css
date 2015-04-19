@@ -48,12 +48,12 @@
   left: 33%;
 }
 
-.l-index .second .bottom-main-section{
+.l-index .second .wrapper-content{
   height: 390px;
   padding-top: 44px;
 }
 
-.l-index .second .bottom-main-section span{
+.l-index .second .wrapper-content span{
   font-size: 14px;
   text-align:center;
   color: #848e97;
@@ -61,7 +61,7 @@
 }
 
 
-.l-index .second  .bottom-main-section h2{
+.l-index .second  .wrapper-content h2{
   font-size: 54px;
   text-align: center;
   color: #635c73;
@@ -69,26 +69,26 @@
   font-family: 'Lato', sans-serif;
 }
 
-.l-index .second  .bottom-main-section p{
+.l-index .second  .wrapper-content p{
   font-size: 21px;
   text-align: center;
   color: #6d6d6d;
   padding-top: 40px;
 }
 
-.l-index .second  .bottom-main-section .buttons{
+.l-index .second  .wrapper-content .buttons{
   padding-top: 40px;
   text-align: center;
 }
 
-.l-index .second  .bottom-main-section button{
+.l-index .second  .wrapper-content button{
   display: inline-block;
   width: 124px;
   height: 25px;
   margin-left: 11px;
 }
 
-.l-index .second  .bottom-main-section button .icon{
+.l-index .second  .wrapper-content button .icon{
   display: inline-block;
   font-size: 16px;
   font-family: 'Lato', sans-serif;
@@ -96,21 +96,29 @@
   padding-right: 11px;
 }
 
-.l-index .second  .bottom-main-section button .icon a, .inline{
+.l-index .second  .wrapper-content button .icon a, .inline{
   color: #000 !important;
 }
 
-.l-index .second .bottom-main-section .inline{
+.l-index .second .wrapper-content .inline{
   display: inline-block;
   font-family: 'Lato', sans-serif;
   font-weight: bold;
 }
 
-.l-index .second  .bottom-main-section button .number{
+.l-index .second  .wrapper-content button .number{
   display: inherit;
   font-size: 16px;
   font-family: 'Lato', sans-serif;
 }
+
+.l-index .third .left .column .col .wrapper{
+  width: 25%x;
+}
+.l-index .third .left .column .col .text{
+  width: 400px;
+}
+.l-index .third .right{}
 
 .l-index .slider-content #slider .slides section{
   padding-top: 75px;
