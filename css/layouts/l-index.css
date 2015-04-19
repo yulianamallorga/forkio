@@ -20,6 +20,7 @@
   color: #8d81ac;
   text-align: center;
   padding-top: 2px;
+  font-family: 'Lato', sans-serif;
 }
 
 .l-index .main .content-main-section span{
@@ -59,11 +60,13 @@
   display: block;
 }
 
+
 .l-index .second  .bottom-main-section h2{
   font-size: 54px;
   text-align: center;
   color: #635c73;
   padding-top: 65px;
+  font-family: 'Lato', sans-serif;
 }
 
 .l-index .second  .bottom-main-section p{
@@ -73,15 +76,41 @@
   padding-top: 40px;
 }
 
+.l-index .second  .bottom-main-section .buttons{
+  padding-top: 40px;
+  text-align: center;
+}
+
 .l-index .second  .bottom-main-section button{
   display: inline-block;
   width: 124px;
   height: 25px;
+  margin-left: 11px;
 }
 
-.l-index .second  .bottom-main-section button a .icon{}
+.l-index .second  .bottom-main-section button .icon{
+  display: inline-block;
+  font-size: 16px;
+  font-family: 'Lato', sans-serif;
+  border-right: solid 1px gray;
+  padding-right: 11px;
+}
 
-.l-index .second  .bottom-main-section button a .number{}
+.l-index .second  .bottom-main-section button .icon a, .inline{
+  color: #000 !important;
+}
+
+.l-index .second .bottom-main-section .inline{
+  display: inline-block;
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+}
+
+.l-index .second  .bottom-main-section button .number{
+  display: inherit;
+  font-size: 16px;
+  font-family: 'Lato', sans-serif;
+}
 
 .l-index .slider-content #slider .slides section{
   padding-top: 75px;

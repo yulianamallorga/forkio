@@ -40,19 +40,19 @@ footer .subscribe .right button{
 
 }
 
-footer .toolbar .wrapper-columns{
+footer .footer-columns .wrapper-columns{
 	height: 720px;
 	padding-top: 82px;
 	padding-bottom: 71px;
 	border-bottom: 1px solid #f4f4f4;
 }
-footer .toolbar .column{
+footer .footer-columns .column{
 	width: 33.33%;
 	padding: 0 10px;
 	float: left;
 }
 
-footer .toolbar .column h2{
+footer .footer-columns .column h2{
 	color: #d3d1da;
 	font-size: 28px;
 	font-weight: bold;
@@ -61,38 +61,38 @@ footer .toolbar .column h2{
 }
 
 
-footer .toolbar .colunms .column-content{
+footer .footer-columns .colunms .column-content{
 	padding-left: 10px;
 }
 
-footer .toolbar .first .column-content .font-size{
+footer .footer-columns .first .column-content .font-size{
 	color: #000 !important;
 }
 
-footer .toolbar .column .column-content .font-size{
+footer .footer-columns .column .column-content .font-size{
 	color: #968bb2;
 	font-size: 16px;
 }
 
-footer .toolbar .column .column-content p{
+footer .footer-columns .column .column-content p{
 	color: #98a0a5;
 	font-size: 13px;
 	padding-top: 15px;
 	line-height: 21px;
 }
 
-footer .toolbar .column .column-content button{
+footer .footer-columns .column .column-content button{
 	font-size: 14px;
 	color: #aba3c0;
 	padding: 10px 18px;
 }
-footer .toolbar .column .column-content .first{
+footer .footer-columns .column .column-content .first{
 	margin-top: 36px;
 }
-footer .toolbar .column .column-content .second{
+footer .footer-columns .column .column-content .second{
 	margin-top: 54px;
 }
-footer .toolbar .column .column-content .third{
+footer .footer-columns .column .column-content .third{
 	margin-top: 61px;
 }
 

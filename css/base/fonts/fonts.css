@@ -11,78 +11,79 @@
 }
 
 @font-face {
-	font-family: 'icomoon';
-	src:url('icomoon.eot?srsxx8');
-	src:url('icomoon.eot?#iefixsrsxx8') format('embedded-opentype'),
-		url('icomoon.woff?srsxx8') format('woff'),
-		url('icomoon.ttf?srsxx8') format('truetype'),
-		url('icomoon.svg?srsxx8#icomoon') format('svg');
-	font-weight: normal;
-	font-style: normal;
+  font-family: 'icomoon';
+  src:url('icomoon.eot?-lpv56c');
+  src:url('icomoon.eot?#iefix-lpv56c') format('embedded-opentype'),
+    url('icomoon.woff?-lpv56c') format('woff'),
+    url('icomoon.ttf?-lpv56c') format('truetype'),
+    url('icomoon.svg?-lpv56c#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
 }
 
 [class^="icon-"], [class*=" icon-"] {
-	font-family: 'icomoon';
-	speak: none;
-	font-style: normal;
-	font-weight: normal;
-	font-variant: normal;
-	text-transform: none;
-	line-height: 1;
+  font-family: 'icomoon';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
 
-	/* Better Font Rendering =========== */
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
-
-.icon-search:before {
-	content: "\e601";
+.icon-star:before {
+  content: "\e607";
 }
 
-.icon-twitter:before {
-	content: "\f099";
+.icon-eye:before {
+  content: "\e608";
 }
 
 .icon-github:before {
-	content: "\eab4";
+  content: "\f00a";
 }
 
-.icon-facebook:before {
-	content: "\f09a";
-}
-
-.icon-rss:before {
-	content: "\f09e";
-}
-
-.icon-circle:before {
-	content: "\f111";
-}
-
-.icon-arrow-down:before {
-	content: "\e602";
-}
-
-.icon-arrow-left:before {
-	content: "\e603";
-}
-
-.icon-arrow-right:before {
-	content: "\e604";
-}
-
-.icon-arrow-up:before {
-	content: "\e605";
-}
-
-.icon-menu:before {
-	content: "\e606";
+.icon-fork:before {
+  content: "\f002";
 }
 
 .icon-gmail:before {
-	content: "\e600";
+  content: "\e600";
 }
 
+.icon-search:before {
+  content: "\e601";
+}
 
+.icon-down-arrow:before {
+  content: "\e602";
+}
+
+.icon-left-arrow:before {
+  content: "\e603";
+}
+
+.icon-right-arrow:before {
+  content: "\e604";
+}
+
+.icon-up-arrow:before {
+  content: "\e605";
+}
+
+.icon-menu:before {
+  content: "\e606";
+}
+
+.icon-twitter:before {
+  content: "\f099";
+}
+
+.icon-facebook:before {
+  content: "\f09a";
+}
 
