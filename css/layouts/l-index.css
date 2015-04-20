@@ -1,6 +1,7 @@
 .l-index .main{
-  background: black;
-  height: 801px;
+  background-image: url("../../img/full-img-01.jpg");
+  background-size: cover;
+  background-position: center center;
 }
 
 .l-index .main .content-main-section{
@@ -44,7 +45,7 @@
   padding-top: 17px;
   padding-bottom: 15px;
   position: absolute;
-  bottom: 0;
+  bottom: -27px;
   left: 33%;
 }
 
@@ -112,13 +113,71 @@
   font-family: 'Lato', sans-serif;
 }
 
+.l-index .third{
+  background: #f4f4f4;
+}
+
+.l-index .third .left .column{
+  padding-left: 22px;
+  padding-top: 30px;
+}
+
+.l-index .third .left .column .col{
+  margin-bottom: 18px;
+}
+
 .l-index .third .left .column .col .wrapper{
-  width: 25%x;
+  display: inline-block;
+  vertical-align: top;
 }
+.l-index .third .left .column .col .one{
+  width: 102px;
+  margin-left: 15px;
+}
+
+.l-index .third .left .column .col .two{
+  width: 92px;
+  margin-left: 10px;
+}
+
+.l-index .third .left .column .col .three{
+  width: 88px;
+  margin-left: 11px;
+}
+.l-index .third .left .column .col .four{
+  width: 79px;
+  margin-left: 17px;
+}
+
 .l-index .third .left .column .col .text{
-  width: 400px;
+  width: 368px;
+  display: inline-block;
+  vertical-align: top;
+  padding-left: 18px;
 }
-.l-index .third .right{}
+
+.l-index .third .left .column .col .text .subtitle{
+  font-size: 16px;
+  color: #323232;
+}
+
+.l-index .third .left .column .col .text p{
+  font-size: 14px;
+  color: #848e97;
+  padding-top: 26px;
+}
+
+.l-index .third .right p{
+  font-size: 56px;
+  color: #8d81ac;
+  text-align: left;
+  padding-top: 80px;
+}
+
+.l-index .third .right .wrapper-image{
+  width: 733px;
+  padding-top: 31px;
+}
 
 .l-index .slider-content #slider .slides section{
   padding-top: 75px;
@@ -270,58 +329,59 @@ text-align: center;
   text-align: center;
 }
 
-.l-index .fifth-section{
+.l-index .six-section{
   padding-top: 20px;
-  background-color: #000;
+  background-image: url("../../img/full-img-02.jpg");
+  background-size: cover;
 }
 
-.l-index .fifth-section strong{
+.l-index .six-section strong{
   font-size: 44px;
   text-align: center;
   color: #fff;
   display: block;
 }
 
-.l-index .fifth-section .img-container{
+.l-index .six-section .img-container{
   height: 700px;
   padding-top: 90px;
   padding-left: 25px;
 }
 
-.l-index .fifth-section .img-container ul li{
+.l-index .six-section .img-container ul li{
   float: left;
   padding-right: 40px;
   width: 33%;
   padding-bottom: 20px;
 }
 
-.l-index .fifth-section .img-container ul li .wrapper-img{
+.l-index .six-section .img-container ul li .wrapper-img{
   width: 210px;
   height: 100px;
   margin: 0 auto;
 }
 
-.l-index .fifth-section .img-container ul li .wrapper-img .one{
+.l-index .six-section .img-container ul li .wrapper-img .one{
   width: 80%;
 }
 
-.l-index .fifth-section .img-container ul li .wrapper-img .two{
+.l-index .six-section .img-container ul li .wrapper-img .two{
   width: 69%;
 }
 
-.l-index .fifth-section .img-container ul li .wrapper-img .three{
+.l-index .six-section .img-container ul li .wrapper-img .three{
   width: 33%;
 }
 
-.l-index .fifth-section .img-container ul li .wrapper-img .five{
+.l-index .six-section .img-container ul li .wrapper-img .five{
   width: 82%;
 }
 
-.l-index .fifth-section .img-container ul li .wrapper-img .last{
+.l-index .six-section .img-container ul li .wrapper-img .last{
   width: 53%;
 }
 
-.l-index .fifth-section .img-container ul li  p{
+.l-index .six-section .img-container ul li  p{
   display: block;
   color: #fff;
   font-weight: bold;

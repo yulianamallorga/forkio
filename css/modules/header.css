@@ -2,6 +2,11 @@ header{
 	background-color: #fff;
 	padding-bottom: 33px;
 }
+
+header .inner-container{
+	 padding: 0 9% 0 4%;
+}
+
 header .wrapper-logo{
 	width: 157px;
 	height: 40px;
