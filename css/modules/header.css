@@ -3,14 +3,10 @@ header{
 	padding-bottom: 33px;
 }
 
-header .inner-container{
-	 padding: 0 9% 0 4%;
-}
-
 header .wrapper-logo{
-	width: 157px;
+	width: 158px;
 	height: 40px;
-	padding-right: 11px;
+	padding-right: 13px;
 	padding-top: 27px;
 	padding-bottom: 20px;
 
