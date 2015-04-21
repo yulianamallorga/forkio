@@ -135,6 +135,7 @@
 
 .l-index .third .left{
   width: 48%;
+  padding-bottom: 42px;
 }
 
 .l-index .third .left .column{
@@ -143,67 +144,77 @@
   padding-right: 62px;
 }
 
-.l-index .third .left .column .col{
-  margin-bottom: 38px;
-}
 
 .l-index .third .left .column .col .wrapper{
   display: inline-block;
   vertical-align: top;
-  width: 23%;
 }
 .l-index .third .left .column .col .one{
-  width: 102px;
+  width: 110px;
   margin-left: 15px;
+  margin-top: 2px;
 }
 
 .l-index .third .left .column .col .two{
   width: 92px;
-  margin-left: 10px;
+  margin-left: 14px;
 }
 
 .l-index .third .left .column .col .three{
   width: 88px;
-  margin-left: 11px;
+  margin-left: 16px;
+  padding-top: 8px;
 }
 .l-index .third .left .column .col .four{
   width: 79px;
-  margin-left: 17px;
+  margin-left: 21px;
+  padding-top: 8px;
 }
 
 .l-index .third .left .column .col .text{
-  width: 77%;
+  width: 75%;
   display: inline-block;
   vertical-align: top;
-  padding-left: 18px;
-  padding-right: 62px;
+  padding-left: 23px;
 }
 
 .l-index .third .left .column .col .text .subtitle{
   font-size: 16px;
   color: #323232;
+  padding-top: 3px;
 }
 
 .l-index .third .left .column .col .text p{
   font-size: 14px;
   color: #848e97;
-  padding-top: 15px;
+  padding-top: 12px;
+  letter-spacing: 0;
+  line-height: 21px;
+}
+
+.l-index .third .left .column .last{
+  padding-top: 6px;
 }
 
 .l-index .third .right{
   width: 52%;
+  position: relative;
 }
 
 .l-index .third .right p{
   font-size: 56px;
   color: #8d81ac;
   text-align: left;
-  padding-top: 80px;
+  padding-top: 66px;
+  padding-bottom: 22px;
+  letter-spacing: 1px;
 }
 
 .l-index .third .right .wrapper-image{
-  width: 733px;
-  padding-top: 31px;
+  width: 165%;
+  position: absolute;
+  bottom: -627px;
+  left: -6px;
 }
 
 .l-index .slider-content #slider .slides section{
