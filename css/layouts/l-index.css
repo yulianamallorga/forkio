@@ -218,16 +218,18 @@
 }
 
 .l-index .slider-content #slider .slides section{
-  padding-top: 75px;
+  padding-top: 85px;
 }
 
 .l-index .slider-content #slider .slides section .twitter{
 margin: 0 auto;
-width: 350px;
+width: 29%;
 }
 
 .l-index .slider-content #slider .slides section .wrapper-image{
-  width: 100px;
+  width: 87px;
+  margin-left: 28px;
+
 }
 
 .l-index .slider-content #slider .slides section .wrapper-image img{
@@ -235,7 +237,8 @@ width: 350px;
 }
 
 .l-index .slider-content #slider .slides section .right{
-  padding-top: 12px;
+  padding-top: 19px;
+
 }
 
 .l-index .slider-content #slider .slides section .right h2{
@@ -248,8 +251,8 @@ width: 350px;
 }
 
 .l-index .slider-content #slider .slides section .twit{
-  padding-top: 115px;
-  width: 600px;
+  padding-top: 43px;
+  width: 65%;
   margin: 0 auto;
   border-bottom: solid 2px rgba(246, 245, 247, 0.74);
   padding-bottom: 55px;
@@ -257,9 +260,13 @@ width: 350px;
 
 .l-index .slider-content #slider .slides section .twit p,span{
   font-size: 18px;
+  line-height: 27px;
+  text-align: center;
 }
 .l-index .slider-content #slider .slides section .twit p span{
   color: #917FAC;
+  padding-top: 18px;
+  font-size: 16px;
 }
 .l-index .slider-content #slider .slides section .twit .footer{
   color: rgba(170, 164, 180, 0.99);
