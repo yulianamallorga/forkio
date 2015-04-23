@@ -105,6 +105,7 @@
 
 .l-index .second  .wrapper-content .buttons ul .button a, .inline{
   color: #000 !important;
+  height: 23px;
 }
 
 .l-index .second  .wrapper-content .buttons ul .button .icon{
@@ -131,6 +132,7 @@
 
 .l-index .third{
   background: #f4f4f4;
+  position: relative;
 }
 
 .l-index .third .left{
@@ -198,7 +200,6 @@
 
 .l-index .third .right{
   width: 52%;
-  position: relative;
 }
 
 .l-index .third .right p{
@@ -207,14 +208,19 @@
   text-align: left;
   padding-top: 66px;
   padding-bottom: 22px;
-  letter-spacing: 1px;
+  letter-spacing: 0;
 }
 
 .l-index .third .right .wrapper-image{
-  width: 165%;
   position: absolute;
-  bottom: -627px;
-  left: -6px;
+  bottom: -77px;
+  left: 655px;
+  right: 0;
+}
+
+.l-index .third .right .wrapper-image img{
+  height: 624px;
+  width: 1167px;
 }
 
 .l-index .slider-content #slider .slides section{
@@ -227,8 +233,9 @@ width: 29%;
 }
 
 .l-index .slider-content #slider .slides section .wrapper-image{
-  width: 87px;
-  margin-left: 28px;
+  width: 84px;
+  margin-left: 22px;
+  padding-top: 2px;
 
 }
 
@@ -247,54 +254,57 @@ width: 29%;
 
 .l-index .slider-content #slider .slides section .right span{
   color: #917FAC;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .l-index .slider-content #slider .slides section .twit{
-  padding-top: 43px;
-  width: 65%;
+  padding-top: 27px;
+  width: 68%;
   margin: 0 auto;
-  border-bottom: solid 2px rgba(246, 245, 247, 0.74);
+  border-bottom: solid 2px #f4f4f4;
   padding-bottom: 55px;
 }
 
 .l-index .slider-content #slider .slides section .twit p,span{
   font-size: 18px;
-  line-height: 27px;
+  line-height: 29px;
+  vertical-align: sub;
   text-align: center;
 }
 .l-index .slider-content #slider .slides section .twit p span{
   color: #917FAC;
+  vertical-align: baseline;
   padding-top: 18px;
   font-size: 16px;
 }
 .l-index .slider-content #slider .slides section .twit .footer{
   color: rgba(170, 164, 180, 0.99);
-  font-size: 14px;
+  font-size: 16px;
   display: block;
   text-align: center;
   font-weight: bold;
+  padding-top: 13px;
+  margin-left: -25px;
 }
 
 .l-index .social-link{
-  width: 920px;
+  width: 60%;
   margin: 0 auto;
-  padding-top: 58px;
+  padding-top: 54px;
   padding-bottom: 75px;
 }
 
 .l-index .social-link .box{
-  width: 282px;
-  display: inline-block;
-  padding-left: 20px;
+  width: 33% !important;
+  float: left;
 }
 
 .l-index .social-link .box span{
   text-align: center;
   display: block;
-  padding-top: 20px;
-  padding-right: 20px;
-  color: #917FAC;
+  padding-top: 11px;
+  padding-right: 55px;
+  color: #848e97 !important;
   font-size: 14px;
   font-weight: bold;
 
@@ -309,69 +319,81 @@ width: 29%;
   border: solid 1px rgba(214, 211, 194, 0.47);
   border-radius: 7px;
   display: inline-block;
-  width: 225px;
+  width: 238px;
+  height: 50px;
   padding: 10px 5px;
   background: rgba(214, 211, 194, 0.47);
+  margin-left: 12px;
 }
 
 .l-index .social-link .box .github a{
-  text-align: center;
+  text-align: left;
   color: #000;
 }
 
 .l-index .social-link .box .github i{
-  font-size: 20px;
-  padding-right: 18px;
+  font-size: 22px;
+  vertical-align: sub;
+  padding-left: 16px;
+  padding-right: 34px;
 }
 
 .l-index .social-link .box .github h3{
-text-align: center;
+  vertical-align: sub;
 }
 
 .l-index .social-link .box .twitter{
   border: solid 1px #09c;
   border-radius: 7px;
-  width: 225px;
+  width: 240px;
+  height: 50px;
   padding: 10px 5px;
   display: inline-block;
   background: #09c;
+  margin-left: 21px;
 }
 
 .l-index .social-link .box .twitter a{
-  text-align: center;
+  text-align: left;
   color: #fff;
 }
 
 .l-index .social-link .box .twitter i{
-  font-size: 20px;
-  padding-right: 18px;
+  font-size: 22px;
+  padding-right: 32px;
+  padding-left: 18px;
+  vertical-align: sub;
 }
 
 .l-index .social-link .box .twitter h3{
-  text-align: center;
+  vertical-align: sub;
 }
 
 .l-index .social-link .box .facebook{
   border: solid 1px #2d609b;
   border-radius: 7px;
-  width: 225px;
+  width: 240px;
+  height: 50px;
   padding: 10px 5px;
   display: inline-block;
   background: #2d609b;
+  margin-left: 28px;
 }
 
 .l-index .social-link .box .facebook a{
-  text-align: center;
+  text-align: left;
   color: #fff;
 }
 
 .l-index .social-link .box .facebook i{
   font-size: 20px;
-  padding-right: 18px;
+  padding-right: 30px;
+  padding-left: 18px;
+  vertical-align: sub;
 }
 
 .l-index .social-link .box .facebook h3{
-  text-align: center;
+  vertical-align: sub;
 }
 
 .l-index .sixth-section{
